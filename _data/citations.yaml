@@ -1,282 +1,358 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1016/j.patter.2026.101514
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
+- id: doi:10.64898/2026.04.28.721069
+  title: Species-specific transformer models of bacterial gene order and content for
+    genomic surveillance tasks
   authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
-  publisher: Patterns
-  date: '2026-05-01'
-  link: https://doi.org/hbvg3p
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2025.06.19.660613
-  title: Scalable data harmonization for single-cell image-based profiling with CytoTable
-  authors:
-  - Dave Bunten
-  - Jenna Tomkinson
-  - Erik Serrano
-  - Michael J. Lippincott
-  - Kenneth I. Brewer
-  - Vince Rubinetti
-  - Faisal Alquaddoomi
-  - Gregory P. Way
+  - Samuel T. Horsfield
+  - Maciej Wiatrak
+  - James O. McInerney
+  - Stephen D. Bentley
+  - Caroline Colijn
+  - John A. Lees
   publisher: openRxiv
-  date: '2025-06-25'
-  link: https://doi.org/g9rfr3
-  orcid: 0000-0002-4655-3773
+  date: '2026-04-30'
+  link: https://doi.org/hb8vkk
+  orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.64898/2026.02.04.703695
+  title: Rapid gene exchange explains differences in bacterial pangenome structure
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
-  authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
+  - Samuel T. Horsfield
+  - Anlei Peng
+  - Matthew J. Russell
+  - Johanna von Wachsmann
+  - Jacqueline Toussaint
+  - "Joshua C. D\u2019Aeth"
+  - Chuhan Qin
+  - Henri Pesonen
+  - Gerry Tonkin-Hill
+  - Jukka Corander
+  - Nicholas J. Croucher
+  - John A. Lees
   publisher: openRxiv
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  date: '2026-02-06'
+  link: https://doi.org/hb8vkm
+  orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.64898/2025.12.18.695090
+  title: A reusable model of pangenome selection informs optimal surveillance strategies
+    over vaccine introductions
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
-  authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
+  - Leonie J. Lorenz
+  - Joel Hellewell
+  - Samuel T. Horsfield
+  - Matthew J. Russell
+  - Shrijana Shrestha
+  - Andrew J. Pollard
+  - Stephen D. Bentley
+  - Stephanie W. Lo
+  - Caroline Colijn
+  - Nicholas J. Croucher
+  - John A. Lees
   publisher: openRxiv
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
+  date: '2025-12-21'
+  link: https://doi.org/hb8vkn
+  orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
+- id: doi:10.6019/TOL.pangenome-graphs-w.2025.00001.1
+  title: Evolution of the accessory genome
   authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
-  publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  - Samuel T. Horsfield
+  publisher: EMBL-EBI
+  date: '2025-11-05'
+  link: https://doi.org/hb8vkp
+  orcid: 0000-0002-3859-4073
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1371/journal.ppat.1013392
+  title: Pore-C sequencing identifies episome-driven chromosome conformation perturbations
+    differentiating pneumococcal epigenetic variants
+  authors:
+  - Tze Yee Lim
+  - Samuel T. Horsfield
+  - Catherine M. Troman
+  - Stephen D. Bentley
+  - Min Jung Kwun
+  - Nicholas J. Croucher
+  publisher: PLOS Pathogens
+  date: '2025-08-14'
+  link: https://doi.org/hb8vkq
+  orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1101/gr.279435.124
+  title: Optimizing nanopore adaptive sampling for pneumococcal serotype surveillance
+    in complex samples using the graph-based GNASTy algorithm
   authors:
-  - Faisal S Alquaddoomi
-  - Joseph T Burke
-  - Lo Sosinski
-  - David A Mayer
-  - Evan P Brenner
-  - Samuel Z Chen
-  - Jacob D Krol
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
+  - Samuel T. Horsfield
+  - Basil C.T. Fok
+  - Yuhan Fu
+  - Paul Turner
+  - John A. Lees
+  - Nicholas J. Croucher
+  publisher: Genome Research
+  date: '2025-03-04'
+  link: https://doi.org/hb8vkr
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2025.03.23.644600
+  title: Selection-free CRISPR-Cas9 editing protocol for distant Dictyostelid species
+  authors:
+  - Mireia Garriga-Canut
+  - Nikki Cannon
+  - Matthew Benton
+  - Andrea Zanon
+  - Samuel T Horsfield
+  - Jacob Scheurich
+  - Kim Remans
+  - John Lees
+  - Alexandre Paix
+  - Jordi van Gestel
   publisher: openRxiv
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  date: '2025-03-25'
+  link: https://doi.org/hb8vks
+  orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1101/2025.03.18.643841
+  title: Pore-C sequencing identifies episome-driven chromosome conformation perturbations
+    differentiating pneumococcal epigenetic variants
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Tze Yee Lim
+  - Samuel T. Horsfield
+  - Catherine M. Troman
+  - Stephen D. Bentley
+  - Min Jung Kwun
+  - Nicholas J. Croucher
+  publisher: openRxiv
+  date: '2025-03-18'
+  link: https://doi.org/hb8vkt
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.11.13.623402
+  title: 'A Comparison of Nanopore Data Types, Basecalling, and Assembly Algorithms:
+    Whole Plant Genome Assembly and Methylation Analysis from a Single MinION Flow
+    cell'
+  authors:
+  - Samuel Martin
+  - Darren Heavens
+  - Yuxuan Lan
+  - Ned Peel
+  - Naomi Irish
+  - Samuel Horsfield
+  - Michael Giolai
+  - Matthew D. Clark
+  - Richard M. Leggett
+  publisher: openRxiv
+  date: '2024-11-14'
+  link: https://doi.org/g9p8mv
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btae542
+  title: 'CELEBRIMBOR: core and accessory genes from metagenomes'
+  authors:
+  - Joel Hellewell
+  - Samuel T Horsfield
+  - Johanna von Wachsmann
+  - Tatiana A Gurbich
+  - Robert D Finn
+  - Zamin Iqbal
+  - Leah W Roberts
+  - John A Lees
+  publisher: Bioinformatics
+  date: '2024-09-01'
+  link: https://doi.org/hb8vkv
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.278485.123
+  title: Pangenome-spanning epistasis and coselection analysis via de Bruijn graphs
+  authors:
+  - Juri Kuronen
+  - Samuel T. Horsfield
+  - "Anna K. P\xF6ntinen"
+  - Sudaraka Mallawaarachchi
+  - Sergio Arredondo-Alonso
+  - Harry Thorpe
+  - Rebecca A. Gladstone
+  - Rob J.L. Willems
+  - Stephen D. Bentley
+  - Nicholas J. Croucher
+  - Johan Pensar
+  - John A. Lees
+  - Gerry Tonkin-Hill
+  - Jukka Corander
+  publisher: Genome Research
+  date: '2024-07-01'
+  link: https://doi.org/hb8vk2
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.04.05.588231
+  title: 'CELEBRIMBOR: Pangenomes from metagenomes'
+  authors:
+  - Joel Hellewell
+  - Samuel T. Horsfield
+  - Johanna von Wachsmann
+  - Tatiana Gurbich
+  - Robert D. Finn
+  - Zamin Iqbal
+  - Leah W. Roberts
+  - John A. Lees
+  publisher: openRxiv
+  date: '2024-04-09'
+  link: https://doi.org/hb8vk3
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2024.02.11.579857
+  title: Graph-based Nanopore Adaptive Sampling with GNASTy enables sensitive pneumococcal
+    serotyping in complex samples
+  authors:
+  - Samuel T. Horsfield
+  - Basil Fok
+  - Yuhan Fu
+  - Paul Turner
+  - John A. Lees
+  - Nicholas J. Croucher
+  publisher: openRxiv
+  date: '2024-02-12'
+  link: https://doi.org/hb8vk4
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.09.07.556769
+  title: 'PAN-GWES: Pangenome-spanning epistasis and co-selection analysis via de
+    Bruijn graphs'
+  authors:
+  - Juri Kuronen
+  - Samuel Horsfield
+  - "Anna K. P\xF6ntinen"
+  - Sergio Arredondo-Alonso
+  - Harry Thorpe
+  - Rebecca Gladstone
+  - Rob J.L. Willems
+  - Stephen D. Bentley
+  - Nicholas J Croucher
+  - Johan Pensar
+  - John A. Lees
+  - Gerry Tonkin-Hill
+  - Jukka Corander
+  publisher: openRxiv
+  date: '2023-09-08'
+  link: https://doi.org/gspr34
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/gr.277733.123
+  title: Accurate and fast graph-based pangenome annotation and clustering with ggCaller
+  authors:
+  - Samuel T. Horsfield
+  - Gerry Tonkin-Hill
+  - Nicholas J. Croucher
+  - John A. Lees
+  publisher: Genome Research
+  date: '2023-08-24'
+  link: https://doi.org/gsp9t4
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2023.01.24.524926
+  title: Accurate and fast graph-based pangenome annotation and clustering with ggCaller
+  authors:
+  - Samuel T. Horsfield
+  - Nicholas J. Croucher
+  - John A. Lees
+  publisher: openRxiv
+  date: '2023-01-24'
+  link: https://doi.org/hb8vk5
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s13059-021-02582-x
+  title: 'Nanopore adaptive sampling: a tool for enrichment of low abundance species
+    in metagenomic samples'
+  authors:
+  - Samuel Martin
+  - Darren Heavens
+  - Yuxuan Lan
+  - Samuel Horsfield
+  - Matthew D. Clark
+  - Richard M. Leggett
   publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  date: '2022-01-24'
+  link: https://doi.org/gn9kz7
+  orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1371/journal.pcbi.1007128
-  title: Open collaborative writing with Manubot
+- id: doi:10.1101/2021.05.07.443191
+  title: 'Nanopore adaptive sampling: a tool for enrichment of low abundance species
+    in metagenomic samples'
   authors:
-  - Daniel S. Himmelstein
-  - Vincent Rubinetti
-  - David R. Slochower
-  - Dongbo Hu
-  - Venkat S. Malladi
-  - Casey S. Greene
-  - Anthony Gitter
-  publisher: PLOS Computational Biology
-  date: '2020-12-04'
-  link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
-  type: paper
-  description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
-    do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  buttons:
-  - type: manubot
-    link: https://greenelab.github.io/meta-review/
-  - type: source
-    text: Manuscript Source
-    link: https://github.com/greenelab/meta-review
-  - type: website
-    link: http://manubot.org/
-  tags:
-  - open science
-  - collaboration
-  repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
+  - Samuel Martin
+  - Darren Heavens
+  - Yuxuan Lan
+  - Samuel Horsfield
+  - Matthew D Clark
+  - Richard M Leggett
   publisher: openRxiv
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
+  date: '2021-05-08'
+  link: https://doi.org/gsw8sb
+  orcid: 0000-0002-3859-4073
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1128/mBio.01344-20
+  title: Improved Prediction of Bacterial Genotype-Phenotype Associations Using Interpretable
+    Pangenome-Spanning Regressions
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-01-01'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  plugin: sources.py
-  file: sources.yaml
-- id: doi:10.7554/eLife.32822
-  title: Sci-Hub provides access to nearly all scholarly literature
+  - John A. Lees
+  - T. Tien Mai
+  - Marco Galardini
+  - Nicole E. Wheeler
+  - Samuel T. Horsfield
+  - Julian Parkhill
+  - Jukka Corander
+  publisher: mBio
+  date: '2020-08-25'
+  link: https://doi.org/gk86r5
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.est.8b05457
+  title: Mixtures of Aluminum and Indium Induce More than Additive Phenotypic and
+    Toxicogenomic Responses in <i>Daphnia magna</i>
   authors:
-  - Daniel S Himmelstein
-  - Ariel Rodriguez Romero
-  - Jacob G Levernier
-  - Thomas Anthony Munro
-  - Stephen Reid McLaughlin
-  - Bastian Greshake Tzovaras
-  - Casey S Greene
-  publisher: eLife
-  date: '2018-03-01'
-  link: https://doi.org/ckcj
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
-  plugin: sources.py
-  file: sources.yaml
+  - Nadja R. Brun
+  - Peter D. Fields
+  - Samuel Horsfield
+  - Leda Mirbahai
+  - Dieter Ebert
+  - John K. Colbourne
+  - Karl Fent
+  publisher: Environmental Science &amp; Technology
+  date: '2019-01-04'
+  link: https://doi.org/gzwwn7
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.hermed.2016.04.003
+  title: Adulteration and poor quality of Ginkgo biloba supplements
+  authors:
+  - Anthony Booker
+  - Debora Frommenwiler
+  - Eike Reich
+  - Samuel Horsfield
+  - Michael Heinrich
+  publisher: Journal of Herbal Medicine
+  date: '2016-06-01'
+  link: https://doi.org/hb8vk6
+  orcid: 0000-0002-3859-4073
+  plugin: orcid.py
+  file: orcid.yaml
