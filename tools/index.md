@@ -2,7 +2,7 @@
 title: Tools
 nav:
   order: 4
-  tooltip: Software, datasets, and more
+  tooltip: Software
 ---
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Tools
