@@ -7,7 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-wrench" %}Tools
 
-Open-source software and analysis tools developed as part of my research in pangenomics, population genetics, and machine learning for microbial genomics.
+GitHub links to open-source software and analysis tools, developed as part of my research in pangenomics and machine learning to study microbial epidemiology and evolution.
 
 {% include tags.html tags="python, rust, r, c++, snakemake, genomics, pangenomics, simulation, machine learning" %}
 
