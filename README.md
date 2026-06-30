@@ -5,6 +5,6 @@
 
   # samhorsfield96's Website
 
-  Visit **[samhorsfield96.github.io/samhorsfield.github.io](https://samhorsfield96.github.io/samhorsfield.github.io)** 🚀
+  Visit **[samhorsfield96.github.io/my-website](https://samhorsfield96.github.io/my-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
