@@ -30,7 +30,7 @@ My research focus is development of bioinformatics tools to study pangenome dive
   include feature.html
   image="images/research_thumbnail.png"
   link="publications"
-  title="My Research"
+  title="My ublications"
   text=text
 %}
 
@@ -61,7 +61,7 @@ My research interests revolve around studying pangenome diversity and evolution 
 
 {% capture text %}
 
-I've written a number of tools that might be helpful for your bioinformatics analysis, spanning genome annotation and pangenome evolution study, to experimental evolution analysis and simulting eukaryotic pangenomes.
+I've written a number of tools that might be helpful for your bioinformatics analysis, spanning genome annotation and pangenome evolution study, to experimental evolution analysis and simulating eukaryotic pangenomes.
 
 {%
   include button.html
@@ -78,6 +78,6 @@ I've written a number of tools that might be helpful for your bioinformatics ana
   include feature.html
   image="images/ggCaller_logo_new.png"
   link="tools"
-  title="My tools"
+  title="Browse my Tools"
   text=text
 %}
