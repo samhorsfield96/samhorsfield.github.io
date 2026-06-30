@@ -30,7 +30,7 @@ My research focus is development of bioinformatics tools to study pangenome dive
   include feature.html
   image="images/research_thumbnail.png"
   link="publications"
-  title="My ublications"
+  title="My Publications"
   text=text
 %}
 
