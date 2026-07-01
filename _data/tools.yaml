@@ -14,6 +14,7 @@
   repo: samhorsfield96/ggCallaroo
   tags: python, snakemake, pangenomics
   group: featured
+  image: images/site/ggcallaroo_new.png
 
 - title: PanBART
   subtitle: Long-context encoder-decoder for pangenomes
